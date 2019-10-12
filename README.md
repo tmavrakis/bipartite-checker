@@ -5,7 +5,7 @@ A bipartite checker for 3 specific graph family. Implementation is on C++ using 
 1. Create a certifying algorithm to check the bilaterality of a given graph G = (V, E).
 2. Compare with the LEDA bipartite checker.
 
-3. Graph family:
+Graph family:
 * Synthetic Graph nested square
 (nodes, edges) = (n, m) ∈ {(10000, 19996), (40000, 79996), (90000, 179996)}
  
