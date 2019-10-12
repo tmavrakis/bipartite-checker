@@ -1,5 +1,5 @@
 # bipartite-checker
-A bipartite checker for 3 specific graph family. Implementation is on C++ using LEDA library.
+A [bipartite](https://en.wikipedia.org/wiki/Bipartite_graph) checker for 3 specific graph family. Implementation is on C++ using LEDA library.
 
 
 1. Create a certifying algorithm to check the bilaterality of a given graph G = (V, E).
