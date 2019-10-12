@@ -17,8 +17,10 @@ Graph family:
 ![72719889_908362566203223_7348709079478435840_n](https://user-images.githubusercontent.com/44173610/66703313-fad8fa80-ed19-11e9-9e9a-6bb6cd286cc7.png)
 
 * Synthetic Graph of 4 levels
-k nodes, 2k edges between 2 levels
-k ∈ {(500), (1000), (1500)}
-requirements:
+k nodes, 2k edges between 2 levels.
+
+k ∈ {(500), (1000), (1500)}.
+
+requirements: Let 
 
 ![72475794_2405982429451021_7013493096843313152_n](https://user-images.githubusercontent.com/44173610/66703315-ff051800-ed19-11e9-81d0-5252667d9206.png)
